@@ -1,6 +1,6 @@
 
 
-📃 بکاپ کد
+<h1>📃 بکاپ کد
 
 
 احراز هویت دو مرحله‌ای (Two-Factor Authentication یا 2FA) یک امنیت اضافی برای حساب کاربری شما در دیسکورد ایجاد می‌کند. با اعمال این نوع احراز هویت، علاوه بر رمز عبور، یک مرحله دیگر از تأیید هویت به حساب شما اضافه می‌شود. این کار باعث می‌شود تا حتی اگر کسی به رمز عبور شما دسترسی پیدا کند، برای ورود به حساب شما نیاز به مرحله دومی از تأیید هویت (معمولاً یک کد ارسالی به تلفن همراه یا دستگاه دیگر) داشته باشد.
@@ -59,8 +59,9 @@ authy
 
 
 
-🌵 پایان مقاله 🌵
-<bold>📃 Backup code
+🌵 پایان مقاله 🌵<h1/>
+*English*
+<h1>📃 Backup code
 
 Two-Factor Authentication (2FA) provides additional security for your Discord account. By applying this type of authentication, in addition to the password, another step of authentication is added to your account. This means that even if someone does gain access to your password, they'll need a second step of authentication (usually a code sent to a mobile phone or other device) to log into your account.
 
@@ -92,4 +93,4 @@ Note: If the two-step authentication of your account is already active, there is
 
 Just click on "Download Backup Codes" option to get your backup codes after logging in to "Account".
 
-🌵 end of the article 🌵</bold>
+🌵 end of the article 🌵</h1>
